@@ -1,0 +1,10 @@
+{
+    "total_analyzed_kos": 7467,
+    "expected_gene_count": 1297.16,
+    "high_confidence_genes": 1124,
+    "strict_cutoff_genes": 573,
+    "estimated_genome_bp": 2991569.92,
+    "estimated_genome_mbp": 2.99,
+    "selected_model_name": "RandomForest",
+    "model_r2_score": 0.9536
+}

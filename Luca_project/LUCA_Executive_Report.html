@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LUCA Genome Analysis Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 30px; line-height: 1.6; color: #333; }
+        h1 { color: #1a365d; border-bottom: 2px solid #2b6cb0; padding-bottom: 8px; }
+        h2 { color: #2c5282; margin-top: 20px; }
+        .metric-card { background: #ebf8ff; border-left: 5px solid #3182ce; padding: 15px; margin: 15px 0; }
+        table { border-collapse: collapse; width: 100%; margin-top: 15px; }
+        th, td { border: 1px solid #cbd5e0; padding: 10px; text-align: left; }
+        th { background-color: #f7fafc; }
+    </style>
+</head>
+<body>
+    <h1>LUCA Genome Size & Evolutionary Repertoire Analysis</h1>
+    <p><b>Author:</b> Hritik Raj | <b>Batch:</b> MCA 2026</p>
+    
+    <div class="metric-card">
+        <h3>Key Finding</h3>
+        <p>The estimated physical genome size of the Last Universal Common Ancestor (LUCA) is <b>2.83 Mbp</b> (95% CI: [2.71 - 2.82] Mbp) with an expected gene family count of <b>1297.16</b> KO families.</p>
+    </div>
+
+    <h2>Quantitative Summary</h2>
+    <table>
+        <tr><th>Metric</th><th>Value</th></tr>
+        <tr><td>Total KO Families Analyzed</td><td>7467</td></tr>
+        <tr><td>Expected Gene Count (Sum of PPs)</td><td>1297.16</td></tr>
+        <tr><td>High-Confidence Genes (PP >= 0.5)</td><td>1124</td></tr>
+        <tr><td>Strict Cutoff Genes (PP >= 0.8)</td><td>573</td></tr>
+        <tr><td>Regression R-squared Score</td><td>0.8093</td></tr>
+    </table>
+</body>
+</html>

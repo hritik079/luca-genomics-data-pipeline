@@ -1,0 +1,7 @@
+Metric,Value
+Total KO Families Analyzed,7467
+Expected Gene Count (Sum of PPs),1297.16
+High-Confidence Genes (PP >= 0.5),1124
+Strict Threshold Genes (PP >= 0.8),573
+Estimated LUCA Genome Size (bp),"2,832,251"
+Estimated LUCA Genome Size (Mbp),2.83 Mbp

@@ -1,0 +1,2 @@
+total_analyzed_kos,expected_gene_count,high_confidence_genes,strict_cutoff_genes,estimated_genome_bp,estimated_genome_mbp,selected_model_name,model_r2_score
+7467,1297.16,1124,573,2991569.92,2.99,RandomForest,0.9536
